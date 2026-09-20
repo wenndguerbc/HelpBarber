@@ -1,1 +1,2 @@
-# 💈HelpBarber💈
+## 💈HelpBarber💈
+Este é um sistema de barbearia que estou desenvolvendo para aplicar os conhecimentos que estou aprendendo ao longo do meu aprendizado de programação. Ao longo dessa jornada, irei aplicar conceitos de Orientação a Objetos (POO), collections, SQL, tratamento de erros e o framework Spring Boot do Java, até conseguirmos desenvolver uma aplicação back-end do básico ao avançado.
